@@ -29,7 +29,7 @@ class Tablet implements MedicineInfo {
 	
 }
 	
-public class D02P02 {
+public class D01P02 {
 	public static void main(String[] args) {
 		MedicineInfo tablet = new Tablet();
 		MedicineInfo syrup = new Syrup();
