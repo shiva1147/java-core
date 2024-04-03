@@ -2,7 +2,7 @@ package com.day01;
 
 import java.util.Scanner;
 
-public class D01P03 {
+public class D01P31 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

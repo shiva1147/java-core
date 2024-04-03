@@ -2,7 +2,7 @@ package com.day01;
 
 import java.util.Scanner;
 
-public class D01P03_2 {
+public class D01P32 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -18,7 +18,7 @@ public class D01P03_2 {
 		else {
 			System.out.println("Invalid Input");
 		}
-		sc.close();
+		sc.close();  
 		
 	}
 
